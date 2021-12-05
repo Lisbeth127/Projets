@@ -1,5 +1,6 @@
 #include "header.h"
 
+///Programme principal
 int main()
 {
     srand(time(NULL));
