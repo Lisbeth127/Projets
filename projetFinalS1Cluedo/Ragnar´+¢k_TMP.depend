@@ -1,0 +1,850 @@
+# depslib dependency file v1.0
+1637328456 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\joueur.cpp
+	"../header.h"
+
+1637328456 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1636827349 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\main.cpp
+	"header.h"
+
+1637510154 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1636457630 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126946 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1635616926 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\dieu.h
+	<iostream>
+	"Carte.h"
+
+1636116007 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\arme.h
+	"Carte.h"
+
+1636457630 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\carte.cpp
+	"Carte.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\arme.cpp
+	"Arme.h"
+
+1635616612 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\dieu.cpp
+	"Dieu.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\lieu.cpp
+	"Lieu.h"
+
+1635620165 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1636533160 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\basedonnees.cpp
+	"BaseDonnees.h"
+
+1637435734 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\pioche.cpp
+	"Pioche.h"
+
+1636828530 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1637510132 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\sp.cpp
+	"header.h"
+
+1636116007 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\perso.cpp
+	"Perso.h"
+
+1637432248 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1637441429 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\yggdrasil.cpp
+	"Yggdrasil.h"
+
+1635954698 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\sp.cpp
+	"header.h"
+
+1636562901 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\src\de.cpp
+	"De.h"
+
+1636562876 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_tmp\include\de.h
+	<iostream>
+	<time.h>
+
+1637751799 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\main.cpp
+	"header.h"
+
+1637510154 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1636457630 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126946 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116007 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116007 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\arme.h
+	"Carte.h"
+
+1637774319 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1637766058 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1635620165 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1637744967 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562876 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\include\de.h
+	<iostream>
+	<time.h>
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\arme.cpp
+	"Arme.h"
+
+1636533160 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\basedonnees.cpp
+	"BaseDonnees.h"
+
+1637776626 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\carte.cpp
+	"Carte.h"
+
+1636562901 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\de.cpp
+	"De.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\lieu.cpp
+	"Lieu.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\perso.cpp
+	"Perso.h"
+
+1637776581 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\pioche.cpp
+	"Pioche.h"
+
+1637774312 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\joueur.cpp
+	"../header.h"
+
+1637776581 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\sp.cpp
+	"header.h"
+
+1637745417 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarök_secours\src\yggdrasil.cpp
+	"Yggdrasil.h"
+
+1637751799 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\main.cpp
+	"header.h"
+
+1637831326 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1636457630 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126946 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116007 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116007 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\arme.h
+	"Carte.h"
+
+1637789798 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1637766058 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1635620165 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1637831326 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562876 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\include\de.h
+	<iostream>
+	<time.h>
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\arme.cpp
+	"Arme.h"
+
+1636533160 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\basedonnees.cpp
+	"BaseDonnees.h"
+
+1637776626 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\carte.cpp
+	"Carte.h"
+
+1636562901 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\de.cpp
+	"De.h"
+
+1637789798 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\joueur.cpp
+	"../header.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\lieu.cpp
+	"Lieu.h"
+
+1636116007 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\perso.cpp
+	"Perso.h"
+
+1637850067 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\yggdrasil.cpp
+	"Yggdrasil.h"
+
+1637850014 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\sp.cpp
+	"header.h"
+
+1637833433 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk\src\pioche.cpp
+	"Pioche.h"
+
+1637914659 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\main.cpp
+	"header.h"
+
+1637917677 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+	"Partie.h"
+
+1637943618 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126948 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\arme.h
+	"Carte.h"
+
+1637942260 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1637766060 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1637915740 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1637943840 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562878 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\de.h
+	<iostream>
+	<time.h>
+
+1637917678 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\sp.cpp
+	"header.h"
+
+1636116008 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\arme.cpp
+	"Arme.h"
+
+1637942260 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\basedonnees.cpp
+	"../header.h"
+
+1637945945 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\carte.cpp
+	"Carte.h"
+	<fstream>
+
+1636562902 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\de.cpp
+	"De.h"
+
+1637943618 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\joueur.cpp
+	"../header.h"
+
+1636116008 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\lieu.cpp
+	"Lieu.h"
+
+1636116008 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\perso.cpp
+	"Perso.h"
+
+1637833434 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\pioche.cpp
+	"Pioche.h"
+
+1637946090 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\yggdrasil.cpp
+	"Yggdrasil.h"
+	<fstream>
+
+1637945945 c:\users\mouss\documents\dernier dossier\ragnarï¿½k\include\partie.h
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1637946525 source:c:\users\mouss\documents\dernier dossier\ragnarï¿½k\src\partie.cpp
+	"Partie.h"
+
+1637914660 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\main.cpp
+	"header.h"
+
+1637917678 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+	"Partie.h"
+
+1637943620 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126948 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\arme.h
+	"Carte.h"
+
+1638044255 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1638045066 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1637915742 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1638045004 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562878 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\de.h
+	<iostream>
+	<time.h>
+
+1638045545 c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\include\partie.h
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1638043907 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\sp.cpp
+	"header.h"
+
+1636116008 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\arme.cpp
+	"Arme.h"
+
+1637942262 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\basedonnees.cpp
+	"../header.h"
+
+1637945946 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\carte.cpp
+	"Carte.h"
+	<fstream>
+
+1636562902 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\de.cpp
+	"De.h"
+
+1638044255 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\joueur.cpp
+	"../header.h"
+
+1636116008 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\lieu.cpp
+	"Lieu.h"
+
+1636116008 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\perso.cpp
+	"Perso.h"
+
+1638045066 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\pioche.cpp
+	"Pioche.h"
+
+1638045004 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\yggdrasil.cpp
+	"Yggdrasil.h"
+	<fstream>
+
+1638045678 source:c:\users\madel\onedrive\documents\ing2\c++\projet info 3\ragnarÖk_leticia\ragnar´+¢k\src\partie.cpp
+	"Partie.h"
+
+1638114150 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\main.cpp
+	"header.h"
+
+1637917678 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+	"Partie.h"
+
+1637943620 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126948 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\arme.h
+	"Carte.h"
+
+1638044256 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1638045068 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1637915742 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1638122357 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562878 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\de.h
+	<iostream>
+	<time.h>
+
+1638115416 c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\include\partie.h
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1638109257 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\sp.cpp
+	"header.h"
+
+1636116008 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\arme.cpp
+	"Arme.h"
+
+1637942262 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\basedonnees.cpp
+	"../header.h"
+
+1637945946 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\carte.cpp
+	"Carte.h"
+	<fstream>
+
+1636562902 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\de.cpp
+	"De.h"
+
+1638044256 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\joueur.cpp
+	"../header.h"
+
+1636116008 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\lieu.cpp
+	"Lieu.h"
+
+1638115633 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\partie.cpp
+	"Partie.h"
+
+1636116008 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\perso.cpp
+	"Perso.h"
+
+1638045068 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\pioche.cpp
+	"Pioche.h"
+
+1638114834 source:c:\users\duhoo\downloads\ragnarok_leticia\ragnarÖk_leticia\ragnar´+¢k\src\yggdrasil.cpp
+	"Yggdrasil.h"
+	<fstream>
+
+1638114152 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\main.cpp
+	"header.h"
+
+1637917678 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+	"Partie.h"
+
+1637943620 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126948 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\arme.h
+	"Carte.h"
+
+1638044256 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1638045068 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1637915742 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1638122358 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562878 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\de.h
+	<iostream>
+	<time.h>
+
+1638115418 c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\include\partie.h
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1638109258 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\sp.cpp
+	"header.h"
+
+1636116008 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\arme.cpp
+	"Arme.h"
+
+1637942262 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\basedonnees.cpp
+	"../header.h"
+
+1637945946 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\carte.cpp
+	"Carte.h"
+	<fstream>
+
+1636562902 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\de.cpp
+	"De.h"
+
+1638044256 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\joueur.cpp
+	"../header.h"
+
+1636116008 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\lieu.cpp
+	"Lieu.h"
+
+1638115634 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\partie.cpp
+	"Partie.h"
+
+1636116008 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\perso.cpp
+	"Perso.h"
+
+1638045068 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\pioche.cpp
+	"Pioche.h"
+
+1638122358 source:c:\users\duhoo\downloads\ragnarok_nathanbg\ragnarok_nathanbg\ragnarÖk_leticia\ragnar´+¢k\src\yggdrasil.cpp
+	"Yggdrasil.h"
+	<fstream>
+
+1638114152 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\main.cpp
+	"header.h"
+
+1637917678 c:\ece 2021-2022\informatique\projetfinals1cluedo\header.h
+	<iostream>
+	<allegro.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+	"Partie.h"
+
+1637943620 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\carte.h
+	<iostream>
+	<vector>
+	<allegro.h>
+
+1636126948 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\lieu.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\perso.h
+	<iostream>
+	"Carte.h"
+
+1636116008 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\arme.h
+	"Carte.h"
+
+1638044256 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\joueur.h
+	<iostream>
+	"Carte.h"
+
+1638045068 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\pioche.h
+	"Carte.h"
+	"Arme.h"
+	"Lieu.h"
+	"Perso.h"
+	"Joueur.h"
+	<vector>
+
+1637915742 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\basedonnees.h
+	<iostream>
+	<map>
+	"Joueur.h"
+
+1638122358 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\yggdrasil.h
+	<iostream>
+	<vector>
+	<allegro.h>
+	"Joueur.h"
+	"Pioche.h"
+
+1636562878 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\de.h
+	<iostream>
+	<time.h>
+
+1638115418 c:\ece 2021-2022\informatique\projetfinals1cluedo\include\partie.h
+	<fstream>
+	"Carte.h"
+	"Lieu.h"
+	"Perso.h"
+	"Arme.h"
+	"Joueur.h"
+	"Pioche.h"
+	"BaseDonnees.h"
+	"Yggdrasil.h"
+	"De.h"
+
+1638109258 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\sp.cpp
+	"header.h"
+
+1636116008 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\arme.cpp
+	"Arme.h"
+
+1637942262 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\basedonnees.cpp
+	"../header.h"
+
+1637945946 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\carte.cpp
+	"Carte.h"
+	<fstream>
+
+1636562902 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\de.cpp
+	"De.h"
+
+1638044256 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\joueur.cpp
+	"../header.h"
+
+1636116008 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\lieu.cpp
+	"Lieu.h"
+
+1638115634 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\partie.cpp
+	"Partie.h"
+
+1636116008 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\perso.cpp
+	"Perso.h"
+
+1638045068 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\pioche.cpp
+	"Pioche.h"
+
+1638122358 source:c:\ece 2021-2022\informatique\projetfinals1cluedo\src\yggdrasil.cpp
+	"Yggdrasil.h"
+	<fstream>
+
